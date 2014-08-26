@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>0F0C03D9-074F-4572-821D-3E2010EDD138</string>
+	<key>IDESourceControlProjectName</key>
+	<string>ReactivieCocoa-Note</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>03134C8A-3778-41AA-9E13-0E46543AEF52</key>
+		<string>https://github.com/wsof401/ReactiveCocoaNote-Demo.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>ReactivieCocoa-Note/ReactivieCocoa-Note.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>03134C8A-3778-41AA-9E13-0E46543AEF52</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/wsof401/ReactiveCocoaNote-Demo.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>03134C8A-3778-41AA-9E13-0E46543AEF52</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>03134C8A-3778-41AA-9E13-0E46543AEF52</string>
+			<key>IDESourceControlWCCName</key>
+			<string>ReactiveCocoaNote-Demo</string>
+		</dict>
+	</array>
+</dict>
+</plist>
