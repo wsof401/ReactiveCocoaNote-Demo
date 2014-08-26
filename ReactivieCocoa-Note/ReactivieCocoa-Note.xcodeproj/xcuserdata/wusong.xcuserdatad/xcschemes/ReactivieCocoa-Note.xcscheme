@@ -14,7 +14,7 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0748BEDA19AC45D3006A40B0"
+               BlueprintIdentifier = "0748BF1B19AC60FE006A40B0"
                BuildableName = "ReactivieCocoa-Note.app"
                BlueprintName = "ReactivieCocoa-Note"
                ReferencedContainer = "container:ReactivieCocoa-Note.xcodeproj">
@@ -32,7 +32,7 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "0748BEFB19AC45D3006A40B0"
+               BlueprintIdentifier = "0748BF3C19AC60FE006A40B0"
                BuildableName = "ReactivieCocoa-NoteTests.xctest"
                BlueprintName = "ReactivieCocoa-NoteTests"
                ReferencedContainer = "container:ReactivieCocoa-Note.xcodeproj">
@@ -42,7 +42,7 @@
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0748BEDA19AC45D3006A40B0"
+            BlueprintIdentifier = "0748BF1B19AC60FE006A40B0"
             BuildableName = "ReactivieCocoa-Note.app"
             BlueprintName = "ReactivieCocoa-Note"
             ReferencedContainer = "container:ReactivieCocoa-Note.xcodeproj">
@@ -61,7 +61,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0748BEDA19AC45D3006A40B0"
+            BlueprintIdentifier = "0748BF1B19AC60FE006A40B0"
             BuildableName = "ReactivieCocoa-Note.app"
             BlueprintName = "ReactivieCocoa-Note"
             ReferencedContainer = "container:ReactivieCocoa-Note.xcodeproj">
@@ -79,7 +79,7 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "0748BEDA19AC45D3006A40B0"
+            BlueprintIdentifier = "0748BF1B19AC60FE006A40B0"
             BuildableName = "ReactivieCocoa-Note.app"
             BlueprintName = "ReactivieCocoa-Note"
             ReferencedContainer = "container:ReactivieCocoa-Note.xcodeproj">
